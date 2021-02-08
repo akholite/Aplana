@@ -8,7 +8,7 @@ public class Zadacha3 {
         a[last] = x;
 
         int mid = last / 2;
-        int sum = a[last] + a[mid];
+        int sum = a[0] + a[mid];
 
         System.out.println("Сумма последнего и среднего элементов: " + sum);
     }
