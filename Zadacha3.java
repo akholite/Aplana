@@ -10,6 +10,6 @@ public class Zadacha3 {
         int mid = last / 2;
         int sum = a[0] + a[mid];
 
-        System.out.println("Сумма последнего и среднего элементов: " + sum);
+        System.out.println("Сумма первого и среднего элементов: " + sum);
     }
 }
