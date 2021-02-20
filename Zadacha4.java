@@ -16,7 +16,7 @@ public class Zadacha4 {
         double hmean = mean / 2;
         double m = hmean - (hmean % 1);
 
-        if (hmean > 3)
+        if (m > 3)
             System.out.println("Программа выполнена корректно!");
     }
 }
