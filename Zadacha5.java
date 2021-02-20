@@ -8,7 +8,6 @@ public class Zadacha5 {
         double x = sc.nextDouble();
         double y = sc.nextDouble();
         String op = sc.next();
-        double res;
 
         switch (op) {
             case "+":
