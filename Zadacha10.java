@@ -8,7 +8,7 @@ public class Zadacha10 {
         int n = sc.nextInt();
         int m = sc.nextInt();
 
-        System.out.println("Введите элементы массива через пробел:");
+        System.out.println("Введите элементы матрицы через пробел:");
         double[][] num = new double[n][m];
 
         for (int i = 0; i < n; i++) {
