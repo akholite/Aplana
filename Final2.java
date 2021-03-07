@@ -50,6 +50,7 @@ public class Final2 {
                     c1 = Character.getNumericValue(eq.charAt(0));
                     c2 = -Character.getNumericValue(eq.charAt(2));
                     break;
+                default:    
             }
         }
         System.out.println(c1 + c2);
