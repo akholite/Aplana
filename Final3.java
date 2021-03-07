@@ -54,6 +54,6 @@ public class Final3 {
             }
         }
 
-        System.out.println("Строка с наибольшим числом уникальных символов: '" + tokens[index] + "'");
+        System.out.printf("Строка с наибольшим числом уникальных символов: '%s'", tokens[index]);
     }
 }
